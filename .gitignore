@@ -1,1 +1,7 @@
 # module-fedaration-poc
+**/node_modules
+productcheckout/node_modules
+productlist/node_modules
+productsearch/node_modules
+sanmaxstore/node_modules
+
